@@ -136,7 +136,7 @@ content:
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             Project: Developing simulators of military or special engineering vehicle (Unity)
-              - Game logic, pass network 
+              - Game logic
               - Education system for instructors and students
               - Exercise editor 
               - Environment and scenarios creation
